@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(4, 132, 4);
+
+}
+
+#tarolo{
+
+background-color: rgb(20, 68, 172);
+color: rgb(0, 255, 4);
+width: 80%;
+max-width: 800px;
+margin: auto;
+padding: 10px;
+}
+
+#menu{
+    padding: 10px;
+}
+
+#menu a {
+    color: darkgreen;
+    text-decoration: none;
+    border: 1px solid grey;
+    padding:5px 10px 5px 10px;
+    margin: 10px;
+    background-color: azure;
+    border-radius: 10px;
+}
+
+#menu a:hover{
+    color: goldenrod;
+    background-color: black;
+}
+
+img {
+    width: 500px;
+}
+
+ul{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
